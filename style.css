@@ -109,7 +109,7 @@ nav{
     border: 2px solid rgb(41, 40, 40);
  }
 
- @media screen and (max-width:414px){
+ @media screen and (max-width:450px){
     
      .nav-bar{
          width: 90vw;
